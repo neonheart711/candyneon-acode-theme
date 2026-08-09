@@ -1,0 +1,35 @@
+{
+    "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+    "id": "com.neonheart711.candyneon",
+    "name": "Candy Neon (Editor Theme)",
+    "main": "main.js",
+    "version": "1.0",
+    "readme": "readme.md",
+    "icon": "icon.png",
+    "files": [],
+    "minVersionCode": 290,
+    "license": "MIT",
+    "keywords": [
+        "theme",
+        "neonheart711",
+        "editor-theme",
+        "codemirror",
+        "ace",
+        "neon",
+        "dark",
+        "v2",
+        "theme",
+        "high contrast",
+        "colorful",
+        "neon",
+        "dark",
+        "vibrant"
+    ],
+    "price": 0,
+    "permissions": [],
+    "author": {
+        "name": "neonheart711",
+        "github": "neonheart711"
+    },
+    "repository": "https://github.com/neonheart711/candyneon-acode-theme"
+}
